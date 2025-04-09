@@ -39,8 +39,7 @@ Time Analysis
 
 Details
 
-📊 Insights Extracted
-
+**📊 Insights Extracted**
 
 Most trips occurred during evening hours (5 PM - 8 PM).
 
@@ -48,9 +47,9 @@ Fridays saw the highest ride activity.
 
 Manhattan and Brooklyn dominated both pickup and drop-off locations.
 
-Notable drop in trips on weekends and holidays.
+Notable drop-in trips on weekends and holidays.
 
-📌 How to Use
+**📌 How to Use**
 
 Clone the repository:
 git clone https://github.com/yourusername/Uber-Trip-Analysis-PowerBI.git
@@ -58,3 +57,7 @@ git clone https://github.com/yourusername/Uber-Trip-Analysis-PowerBI.git
 Open the .pbix file using Power BI Desktop.
 
 Explore, filter, and interact with the dashboard.
+
+**🙌 Acknowledgments**
+
+Thanks to Uber for the dataset and Power BI community for inspiration!
