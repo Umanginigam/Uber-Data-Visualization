@@ -1,30 +1,22 @@
- **🚖 Uber Trip Analysis Dashboard – Power BI**
+ # 🚕 Uber Trip Analysis Dashboard
 
-**📊 Project Overview**
+## 📊 Project Overview
 
-This project presents an interactive Power BI dashboard developed to analyze Uber trip data. The goal is to extract meaningful insights about trip frequency, popular hours, trip duration, and location trends to help understand user behavior and operational efficiency.
+**Uber Trip Analysis** is an interactive Power BI dashboard designed to provide insights into Uber ride data. The dashboard showcases trends, peak hours, ride types, and geographical distribution to support data-driven decision-making.
 
-🧠 Key Features
+## 🧰 Tools Used
 
-📅 Date-wise Trip Distribution
+- **Power BI** – Data visualization
+- **Microsoft Excel** – Data cleaning & preprocessing
+- **Uber Dataset** – Raw ride data
 
-🕒 Hourly Peak Rides Analysis
+## 🔍 Key Features
 
-📍 Trip Pick-up & Drop-off Locations
-
-🗺️ Map-based Visualizations
-
-📈 Total Trips, Average Trip Count, and Trends
-
-🔎 Filterable Dashboards (By date/time/location)
-
-🧰 Tools & Technologies
-
-Power BI
-
-MS Excel (for preprocessing)
-
-Data Source:
+- **Daily and Monthly ride trends**
+- **Popular pickup and drop-off locations**
+- **Ride volume by time of day**
+- **Categorization by ride type**
+- *Interactive filters* for better insights
 
 📸 Dashboard Preview
 ![PHOTO-2025-04-09-17-42-51](https://github.com/user-attachments/assets/aad78628-afda-46b5-a58e-ff4fad4bf5cc)
